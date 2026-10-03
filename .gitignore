@@ -1,0 +1,11 @@
+# Only public documentation belongs in this repository's Git history.
+*.exe
+*.zip
+*.key
+*.pem
+*.token
+.env*
+auth.json
+hosts.yml
+data/
+.tools/
