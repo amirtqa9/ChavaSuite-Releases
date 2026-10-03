@@ -55,7 +55,12 @@ backup. Do not upload customer records, passwords or account sessions to issues.
 ## Manuals and help
 
 Open **Help** inside Chava for the **User Guide** and **Subscriber Emails Manual**.
-The manuals are included with the installer. Release notes explain changes in each
+The manuals are included with the installer, and can also be downloaded here:
+
+- [User Guide (PDF)](https://github.com/amirtqa9/ChavaSuite-Releases/releases/latest/download/Chava_User_Guide.pdf)
+- [Subscriber Emails Manual (PDF)](https://github.com/amirtqa9/ChavaSuite-Releases/releases/latest/download/Chava_Email_Manual.pdf)
+
+Release notes explain changes in each
 version. Suspected bugs found through Ask Chava are saved locally for developer
 review; they are not automatically published here.
 
