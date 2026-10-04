@@ -41,6 +41,9 @@ Chava checks for a newer version shortly after opening. You can also open
 **Updates → Check for updates**.
 
 Read the release notes, click **Download update**, then **Restart to install**.
+If you installed the earlier private preview (1.0.0), run the public installer
+once to switch to these public updates; your saved data is kept.
+
 Finish current tasks and save profile edits first. Installation needs your
 confirmation. Chava verifies signed update metadata and the installer checksum,
 then backs up your saved data locally before updating.
